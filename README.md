@@ -11,8 +11,9 @@ Titulaire du titre professionnel Concepteur Développeur d'Applications (RNCP ni
 - **Back-end** : Node.js, Express, TypeScript, Prisma, PostgreSQL
 - **Front-end** : React, Next.js, Svelte, Tailwind CSS
 - **Qualité** : Vitest, Supertest, fuzzing, ESLint, Prettier
-- **DevOps** : Docker, GitHub Actions
+- **DevOps** : Docker, Docker Compose, Nginx, GitHub Actions
 - **Sécurité** : JWT httpOnly, Argon2, Zod, Helmet, CORS, protection CSRF
+- **Pratiqué en formation** : GraphQL (Apollo Server, DataLoader), microservices avec API Gateway, Sequelize
 
 ## Projet phare
 
