@@ -23,5 +23,5 @@ Plateforme communautaire de défis de jeux vidéo, réalisée en équipe de 4 pu
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/romain-locatelli-652127353/)
+- [LinkedIn](https://www.linkedin.com/in/romainlocatelli/)
 - locatelliromain@gmail.com
